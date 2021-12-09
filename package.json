@@ -1,0 +1,14 @@
+{
+  "name": "cy-ci-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "author": "SergiuB",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.1.1"
+  }
+}
